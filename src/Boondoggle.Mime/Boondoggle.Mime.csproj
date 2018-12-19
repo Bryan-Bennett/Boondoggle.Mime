@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>MIME parser</Description>
+    <PackageTags>boondoggle mime</PackageTags>
+    <Version>0.1.0-alpha</Version>
+  </PropertyGroup>
+
+</Project>

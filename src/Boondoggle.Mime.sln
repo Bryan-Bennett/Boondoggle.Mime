@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boondoggle.Mime", "Boondoggle.Mime\Boondoggle.Mime.csproj", "{07D1F5CE-9384-451A-B574-6B0F8EDE0F6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".repo", ".repo", "{D5F43E67-4CC6-4A6A-93D4-D8D838E7D45C}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{BB173D20-F76C-4900-AC41-61638C4437DF}"
+	ProjectSection(SolutionItems) = preProject
+		directory.build.props = directory.build.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D1F5CE-9384-451A-B574-6B0F8EDE0F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D1F5CE-9384-451A-B574-6B0F8EDE0F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D1F5CE-9384-451A-B574-6B0F8EDE0F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D1F5CE-9384-451A-B574-6B0F8EDE0F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D46BAB-AA2D-464D-9AF4-42475D424C07}
+	EndGlobalSection
+EndGlobal
