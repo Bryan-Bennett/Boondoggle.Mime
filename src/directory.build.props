@@ -6,7 +6,7 @@
     <Copyright>2018</Copyright>
     <PackageLicenseUrl>https://raw.githubusercontent.com/Bryan-Bennett/Boondoggle.Mime/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Bryan-Bennett/Boondoggle.Mime</PackageProjectUrl>
-    <PackageIconUrl></PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Bryan-Bennett/Boondoggle.Mime/master/package.ico</PackageIconUrl>
     <RepositoryUrl>https://github.com/Bryan-Bennett/Boondoggle.Mime.git</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
